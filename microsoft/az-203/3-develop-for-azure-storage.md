@@ -1,4 +1,4 @@
-# AZ-203: Develop Azure Platform as a Service Compute Solutions (20-25%)
+# AZ-203: Develop for Azure storage (15-20%)
 
 You want to have a solid foundation in working with the Azure Storage APIs. This includes blob, table, etc.
 
