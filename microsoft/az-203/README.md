@@ -8,7 +8,7 @@ The study guide is broken down according to the topics documented for the exam. 
 * [Develop Azure Platform as a Service Compute Solutions (20-25%)](2-develop-azure-platform-as-a-service-compute-solutions.md)
 * [Develop for Azure storage (15-20%)](3-develop-for-azure-storage.md)
 * [Implement Azure security (10-15%)](4-implement-azure-security.md)
-* [Monitor, troubleshoot, and optimize Azure solutions (15-20%)](5-monitor-troubleshoot-and-optimize-azure-solutions.md.md)
+* [Monitor, troubleshoot, and optimize Azure solutions (15-20%)](5-monitor-troubleshoot-and-optimize-azure-solutions.md)
 * [Connect to and Consume Azure Services and Third-party Services (20-25%)](6-connect-and-consume-azure-servies-and-third-party-services.md)
 
 ## About This Guide
