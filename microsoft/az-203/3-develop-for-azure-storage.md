@@ -19,10 +19,8 @@ You want to have a solid foundation in working with the Azure Storage APIs. This
 
 * [Understand the options for database security](https://docs.microsoft.com/en-us/azure/security/azure-database-security-best-practices). Focus on the different ways to authenticate to SQL Server as well as the options available using Azure AD.
 * Read through the [connectivity guidance to SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-connectivity-issues)
-
-Provision and configure relational databases
-Configure elastic pools for Azure SQL Database
-Create, read, update, and delete data tables by using code
+* [Create a single database in Azure SQL Database using the Azure portal](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-single-database-get-started)
+* [Create and manage elastic pools in Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-elastic-pool-manage)
 
 ## Develop solutions that use blob storage
 

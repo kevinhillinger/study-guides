@@ -14,3 +14,4 @@
 ## Create containerized solutions
 * Complete the [walkthrough of setting up an AKS cluster](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough) (including the service principal option)
 * Know how to use the [CLI at least for basic management of ACR](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-azure-cli)
+* [Create an Azure Container Registry, create, prep, and push images to it](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr)

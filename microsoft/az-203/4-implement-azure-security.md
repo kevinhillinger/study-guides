@@ -4,6 +4,7 @@
   Implement authentication by using certificates, forms-based authentication, or tokens
   Implement multi-factor or Windows authentication by using Azure AD
   Implement OAuth2 authentication
+  * [Understand OAuth2 and Open ID Connect](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols)
 
 * Review the [How to use managed identities for App Service and Azure Functions](https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity). Focus on the C# code and how the services are wired up to each other
 * Know how to [secure an App Service with managed identities using Key Vault](https://azure.microsoft.com/en-us/resources/samples/app-service-msi-keyvault-dotnet/)
@@ -19,6 +20,7 @@
 ## Implement secure data solutions
 
 * Know how to [add Client Certificate for the .NET Core HttpClient](https://stackoverflow.com/questions/40014047/add-client-certificate-to-net-core-httpclient). Focus on the API for the HttpClientHandler. A blob post example is [here](https://blog.pedrofelix.org/2012/12/16/using-httpclient-with-ssltls/)
+* Know how to [set and retrieve a secret from Azure Key Vault using Azure CLI](https://docs.microsoft.com/en-us/azure/key-vault/quick-create-cli) and [.NET](https://docs.microsoft.com/en-us/azure/key-vault/quick-create-net)
 
   Encrypt and decrypt data at rest and in transit
   Create, read, update, and delete keys, secrets, and certificates by using the KeyVault API
