@@ -4,7 +4,7 @@
 ## Create Azure App Service Web Apps
 
 * Be able to use the Azure CLI to [create and deploy a Web App](https://docs.microsoft.com/en-us/azure/app-service/scripts/cli-deploy-staging-environment)
-* [Monitor an .net web app with Applicataion Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/learn/quick-monitor-portal)
+* [Monitor an .net web app with Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/learn/quick-monitor-portal)
 * Be familiar with Web Jobs since the exam will cover this topic. Focus on [background tasks and the different types](https://docs.microsoft.com/en-us/azure/app-service/webjobs-create)
 
 ## Create Azure App Service mobile apps
