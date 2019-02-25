@@ -9,7 +9,7 @@ The study guide is broken down according to the topics documented for the exam. 
 * [Develop for Azure storage (15-20%)](3-develop-for-azure-storage.md)
 * [Implement Azure security (10-15%)](4-implement-azure-security.md)
 * [Monitor, troubleshoot, and optimize Azure solutions (15-20%)](5-monitor-troubleshoot-and-optimize-azure-solutions.md)
-* [Connect to and Consume Azure Services and Third-party Services (20-25%)](6-connect-and-consume-azure-servies-and-third-party-services.md)
+* [Connect to and Consume Azure Services and Third-party Services (20-25%)](6-connect-and-consume-azure-services-and-third-party-services.md)
 
 ## About This Guide
 I'm not going to focus on things like exam structure, pricing, yada yada. You can easily find this information with a search or directly on the Microsoft learning site. What I'll focus on is the resources that target the topics covered by the exam, and my opinion on what you should be focusing on during the course of your study time.
