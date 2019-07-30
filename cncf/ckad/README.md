@@ -6,7 +6,7 @@ The study guide is broken down into the applied knowledge learning track. Since 
 
 - [Getting Started](1-getting-started.md) - Essential Kubernetes knowledge 
 - [Tooling Know-how](2-tooling-know-how.md) - Ability to use bash and vim quickly
-- [Practice Material](3-practice-material) - Applied knowledge of Kubernetes
+- [Practice Material](3-practice-material.md) - Applied knowledge of Kubernetes
 
 ### Helpful Blog Posts
 * [My Feedback about CKA and CKAD](https://medium.com/@ikaboubi/my-feedback-about-cka-and-ckad-e82a35585fe9)
