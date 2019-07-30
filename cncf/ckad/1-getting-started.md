@@ -5,12 +5,7 @@
 ### 1. Familiarize yourself with the cirriculum
 Understand that the questions on the exam will correspond to the [cirriculum](https://github.com/cncf/curriculum). Pay attention to the areas where a high percentage is placed.
 
-### 2. Gain proficiency with the tooling
-You won't be able to take the test and pass if you don't know how to use a *nix terminal and Vim. 
-
-Go to: [study guide for essential bash and vim](essential-bash-vim.sh).
-
-### 3. Have basic Kubernetes knowledge
+### 2. Foundational Kubernetes knowledge
 If you already use Kubernetes, you can skip this portion. Here's my suggested material to go through (in order).
 
 1. [Intro to Kubernetes (edX)](https://www.edx.org/course/introduction-to-kubernetes) - You'll be introduced to core concepts so you can build on this knowledge

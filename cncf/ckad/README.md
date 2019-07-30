@@ -2,10 +2,11 @@
 
 ## Table of Contents
 
-The study guide is broken down according to the topics documented for the exam. I've laid out study material for each one separately. 
+The study guide is broken down into the applied knowledge learning track. Since the exam isn't about just academic knowledge, but executing the answer reasonably quickly (you only have two hours), repetition is the best strategy for proficiency.
 
-- [Getting Started ](getting-started.md) - Essential Kubernetes knowledge and tooling know-how
-- [Practice Material](practice-material) - applied knowledge. 
+- [Getting Started](1-getting-started.md) - Essential Kubernetes knowledge 
+- [Tooling Know-how](2-tooling-know-how.md) - Ability to use bash and vim quickly
+- [Practice Material](3-practice-material) - Applied knowledge of Kubernetes
 
 ### Helpful Blog Posts
 * [My Feedback about CKA and CKAD](https://medium.com/@ikaboubi/my-feedback-about-cka-and-ckad-e82a35585fe9)

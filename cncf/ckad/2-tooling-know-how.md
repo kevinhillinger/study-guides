@@ -1,8 +1,12 @@
 # Exam CKAD: Kubernetes Certified Application Developer
 
-## Essentials for the testing environment
+## Tooling Know-how
+You won't be able to take the test and pass if you don't know how to use a *nix terminal and Vim. Learn to use them if you don't know already. If you think you're solid in this area, at least skim and "check off" what I suggest you know and are able to execute.
 
-## Bash terminal
+* bash
+* vim
+
+## 1. Bash terminal
 You should be proficient enough to know these basic commands cold.
 
 * quickly navigate file system
@@ -11,7 +15,7 @@ You should be proficient enough to know these basic commands cold.
 * able to direct input / output 
 * launch vim to edit a file
 
-## Vim - know your editor
+## 2. Vim - know your editor
 I picked and stuck with vim. You can choose nano if you want. The same guidance applies.
 
 ### Tabs and spaces
