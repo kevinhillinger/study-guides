@@ -25,7 +25,7 @@ YAML is important for editing and quickly creating "template" pod or deployment 
 
 * set tab with and stop for vim
 
-    > WARNING: You __do not__ want to be stuck pressing the tab key and getting an actual tab or having to hit the space bar and hope to god that pressed it the right number of times to get the right YAML formatting. Speaking during the exam is not allowed, so muttering shit under your breath isn't recommended :)
+    > WARNING: During the exam, you __do not__ want to be stuck pressing the tab key and getting an actual tab or having to hit the space bar and hope to god that you pressed it the right number of times to get the right YAML formatting. Speaking during the exam is not allowed, so muttering shit under your breath isn't recommended ;). Do yourself a favor and memorize how to setup your environment with whatever configuration you need your tools to be.
 
 ```bash
 :set tabstop=2
