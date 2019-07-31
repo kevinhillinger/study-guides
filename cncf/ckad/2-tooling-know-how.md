@@ -6,13 +6,13 @@ You won't be able to take the test and pass if you don't know how to use a *nix 
 * bash
 * vim
 
-## 1. Bash terminal
+## 1. Bash shell
 You should be proficient enough to know these basic commands cold.
 
 * quickly navigate file system
 * copy and paste
 * ability to pipe
-* able to direct input / output 
+* able to direct input / output (into and out of files quickly for example)
 * launch vim to edit a file
 
 ## 2. Vim - know your editor
@@ -46,5 +46,6 @@ Memorize how to do the follow:
 * paste (*tip: use this in combination with insert new line*)
 * quickly exit and save changes, e.g. `ZZ`
 
-
+## 3. kubectl aliases - not necessary
+Unless you're completely accustomed to using aliases for kubectl commands, I don't think you're going to need it for the test. In fact, this adds just another task you're going to have to memorize and execute rather quickly at the beginning of the exam. The second downside to this, is that your brain is going to perform constant translation of commands that appear one way in the training material, but typed out a completely different way. This isn't effective knowledge imprinting, in my assessment.
 
